@@ -26,3 +26,7 @@ public class JulgamentoPrisioneiro {
                 }
      }
 }
+
+
+Erros encontrados:
+Método calcularPena() deve ser void e sem parâmetros
